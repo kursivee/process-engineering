@@ -1,4 +1,4 @@
-# Process Improvment Stagnation
+# Process Improvement Stagnation
 ## Indicators
 - Poor documentation
 - Lack of testing
