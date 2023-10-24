@@ -24,6 +24,12 @@ Process improvments are implemented based on the collective understanding of eac
 ## Solution: Define the Big Picture Process
 Software development is the process of taking an idea and turning it into a product. The following diagram is a basic flow of that process.
 
+![Idea Lifecycle](/idea-lifecycle.png?raw=true "Idea Lifecycle")
+
+- Each box represents a concrete object that can be used to continue the flow. It could be documents, JIRA tasks, Mobile App, etc.
+- Each line represents the process that generates the box. Examples include Sprint Planning sessions, Stakeholder meetings, Software development, etc.
+
+
 ### Exercise: Define the boxes
 For each box listed in the diagram, define the following:
 - Who is responsible?
